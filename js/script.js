@@ -18,8 +18,8 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		// strings: ["Software Engineer.", "Web Developer.", "Student."],
-		strings: ["Saxophonist", "Composer", "Musical Instructor"],
+		strings: ["Software Engineer.", "Web Developer.", "Student."],
+		// strings: ["Saxophonist", "Composer", "Musical Instructor"], for client-Alex
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
